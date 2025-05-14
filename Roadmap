@@ -1,0 +1,110 @@
+# 🛠️ Java Backend Developer Study Roadmap (8 Weeks)
+
+This roadmap aligns with your 4-hour daily study plan. Use this to track weekly learning goals, key topics, resources, and project progress.
+
+---
+
+## ✅ Week 1–2: Core Java Fundamentals
+### Topics:
+- OOP (classes, inheritance, polymorphism, encapsulation)
+- Exception Handling
+- Java Collections Framework
+- File I/O and Java NIO
+- Multithreading and Concurrency Basics
+
+### Resources:
+- [Java MOOC by University of Helsinki](https://java-programming.mooc.fi/)
+- [W3Schools Java](https://www.w3schools.com/java/)
+- [Head First Java](https://archive.org/details/HeadFirstJava2ndEdition)
+- [Exercism Java Track](https://exercism.org/tracks/java)
+
+### Mini Project:
+- 📁 **Student Record System** (CRUD app using Java, Collections, and File I/O)
+
+---
+
+## ✅ Week 3–4: Backend Frameworks
+### Topics:
+- Spring Boot Basics
+- RESTful API Development
+- Spring MVC Architecture
+- Spring Data JPA
+- Dependency Injection
+
+### Resources:
+- [Spring.io Guides](https://spring.io/guides)
+- [Java Brains Spring Boot Playlist](https://www.youtube.com/user/koushks)
+- [Baeldung Spring Boot](https://www.baeldung.com/spring-boot)
+
+### Mini Project:
+- 📝 **Task Manager API** (Spring Boot, REST, MVC, JPA)
+
+---
+
+## ✅ Week 5–6: Database Integration
+### Topics:
+- JDBC Basics
+- SQL Optimization
+- Connection Pooling
+- Transaction Management
+- MongoDB with Spring
+
+### Resources:
+- [MongoDB Java Developer Path](https://learn.mongodb.com/paths/java-developer)
+- [SQLZoo](https://sqlzoo.net/)
+- [W3Schools SQL](https://www.w3schools.com/sql/)
+- [Baeldung JDBC](https://www.baeldung.com/java-jdbc)
+
+### Mini Project:
+- 💵 **Expense Tracker** (Spring Boot + SQL or MongoDB)
+
+---
+
+## ✅ Week 7–8: Advanced Topics
+### Topics:
+- Microservices with Spring Cloud
+- API Security (Spring Security, JWT)
+- Docker Basics
+- Message Queues (Kafka, RabbitMQ)
+- CI/CD (GitHub Actions)
+
+### Resources:
+- [Spring Microservices - Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
+- [Spring Security Baeldung](https://www.baeldung.com/security-spring)
+- [Kafka Docs](https://kafka.apache.org/documentation/#gettingStarted)
+- [GitHub Actions Java CI](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven)
+- [Docker Docs](https://docs.docker.com/get-started/)
+
+### Capstone Project:
+- 🏦 **Secure Banking API** (Microservices, JWT Auth, Docker)
+
+---
+
+## 🚀 Practice Sites
+- [HackerRank Java](https://www.hackerrank.com/domains/tutorials/10-days-of-java)
+- [Codewars Java](https://www.codewars.com/dashboard)
+- [Exercism Java](https://exercism.org/tracks/java)
+
+---
+
+## 📈 Progress Tracker
+| Week | Goal | Done | Notes |
+|------|------|------|--------|
+| 1 | Java Basics | ☐ |  |
+| 2 | Java Collections + File I/O | ☐ |  |
+| 3 | Spring Boot + MVC | ☐ |  |
+| 4 | REST APIs + JPA | ☐ |  |
+| 5 | JDBC + SQL | ☐ |  |
+| 6 | MongoDB + Transactions | ☐ |  |
+| 7 | Microservices + Security | ☐ |  |
+| 8 | Docker + CI/CD | ☐ |  |
+
+---
+
+## 💻 GitHub Usage Guide
+1. Create a new private or public repository (e.g., `java-backend-roadmap`)
+2. Add a `README.md` file with this roadmap
+3. For each mini project:
+   - Create a separate folder (e.g., `/week1-student-record`) and push the project code
+4. Use issues or the Projects tab to track specific tasks
+5. Commit progress daily or weekly
